@@ -1,0 +1,32 @@
+1, What conclusion can you reach about the responses to this question?
+1.1 Almost all students are on time to most of their classes. 
+1.2 Half of the students does not have second monitors. 
+1.3 Almost half of the students does not have external keyboard and mouth. 
+1.4 Most of the students prefers pen and paper as their way of taking notes.
+1.5 It is difficult to reach to a conclusion since it is very broad and different. However, all the questions are either present focused or future focused that is related to profession and success. 
+
+2, Is the default summary or visualization helpful? How could it be improved?
+I would say it helps. For example in my case, at first i was looking at the excel to see the how many students said yes and how many said no. I had to count is. Imagine a big amount of respondents. But then when i went to the summary the chart showed me the exact amount and made it easier. 
+
+3, For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+It there stated as 'OTHER. You do not see the response as give. However, when you click on more details it will take you to a box where you see the responses for that specific question and that where you see it.
+
+4, For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+Everyone or at least most has different questions. It is not limited and that makes it to find pattern and come up with a solution if it was a real survey to find solutions or if it was a market study to launch a new product or service. 
+
+5, Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+
+I would only rephrase the open question and group it like course related, work related, extra so it will be limited and will be less challenging to analyze. 
+
+6, Is there anything that surprised you about the survey responses?
+Not really, it just that looking at the questions, the students eagerness is great. 
+
+7, Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+From the survey itself i understood that it would be best if i have monitor, external keyboard and mouth. I do not think there is anything i want to try including in my morning routine.
+
+8, Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+Maybe considering the questions that has been stated, I would sometimes include the answers when it is convenient. And also give some tips where to focus and/or additional sources. From the answer everyone seems familiar with the basics but again it is hard to tell so i might need a another survey to see the level where everyone at. 
+
+9, Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons, you may include both.)
+I think it was helpful because it is shared with other students. If there was a dumb question for example it would not be nice to share it with others unless that person was aware of it already. But in the other side maybe it makes some of the students lazy to take a time and think since it anonymous. 
+
