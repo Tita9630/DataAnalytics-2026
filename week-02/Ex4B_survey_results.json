@@ -1,0 +1,57 @@
+[
+	{
+		"visit_frequency" : "3 to 5 days a week",
+		"favorite_product" : "Cookies",
+		"loyality_program" : "Maybe"
+	},
+	{
+		"visit_frequency" : "Once a week",
+		"favorite_product" : "Donuts",
+		"loyality_program" : "Yes"
+	},
+	{
+		"visit_frequency" : "A few times a month",
+		"favorite_product" : "Cookies",
+		"loyality_program" : "Yes"
+	},
+	{
+		"visit_frequency" : "Once a week",
+		"favorite_product" : "Donuts",
+		"loyality_program" : "Maybe"
+	},
+	{
+		"visit_frequency" : "Never",
+		"favorite_product" : "Other",
+		"loyality_program" : "No"
+	},
+	{
+		"visit_frequency" : "3 to 5 days a week",
+		"favorite_product" : "Cookies",
+		"loyality_program" : "Yes"
+	},
+	{
+		"visit_frequency" : "3 to 5 days a week",
+		"favorite_product" : "Cookies",
+		"loyality_program" : "Yes"
+	},
+	{
+		"visit_frequency" : "3 to 5 days a week",
+		"favorite_product" : "Cookies",
+		"loyality_program" : "Yes"
+	},
+	{
+		"visit_frequency" : "Daily",
+		"favorite_product" : "Cake",
+		"loyality_program" : "Maybe"
+	},
+	{
+		"visit_frequency" : "Once a week",
+		"favorite_product" : "Cookies",
+		"loyality_program" : "Yes"
+	},
+	{
+		"visit_frequency" : "Never",
+		"favorite_product" : "Shakes",
+		"loyality_program" : "No"
+	}
+]
