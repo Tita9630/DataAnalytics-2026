@@ -1,0 +1,28 @@
+name_1 = "PRIYA SHARMA"
+name_2 = "bob NGUYEN"
+name_3 = "LaTonya Williams"
+salary_1 = "$82,500"
+salary_2 = "$74,000"
+
+print(name_1.lower())  # converting the names to lower case
+print(name_2.lower())
+print(name_3.lower())
+
+print(name_1.title())  # converting the names to proper english way of writing names
+print(name_2.title())
+print(name_3.title())
+
+salary_11 = salary_1.replace("$", "") #removing $
+salary_21 = salary_2.replace("$", "")
+
+print(salary_11)
+print(salary_21)
+
+print(type(salary_11))   #what is the type? int, str, float?
+print(type(salary_21))
+
+salary_1_chained = int(salary_1.replace("$", "").replace(",", ""))
+print(salary_1_chained)
+print(type(salary_1_chained))
+
+
