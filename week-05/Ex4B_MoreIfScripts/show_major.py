@@ -1,4 +1,4 @@
-student_name = "Luna"
+student_name = "LUNA"
 student_major = "DATA"
 
 if student_major == "BIOL":
