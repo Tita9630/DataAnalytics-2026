@@ -1,0 +1,18 @@
+1, What does a value in this column represent? What values might you see here?
+Categories: category details such as category ID, category name, description, and picture.
+2, Is this column a part of the primary key to this table?
+Yes, categoryID is the primary key to category table.
+3, Is this column a part of a foreign key that points to a record in another table?
+No, categoryID is not a foreign key in categories table. It is referenced as a foreign key in the products table.
+4, Would this column be valuable to bring into our Power BI Model? Yes, or no? Why?
+Yes, because categoryID can be used to relate categories to products and to group products by category.
+5, Do you believe this column is appropriately named for Data Analysis purposes?
+Yes, it is easy to understand. 
+6, If not, what might be a more appropriate name?
+I think it is appropriate and unique.
+7, What might be the data type and format for this column in a Power BI Model?
+Attribute(Dimension) 
+8, Can you think of any calculations where this column data might be used?
+Count of categories, count of products by category, average products by category after relating the categories and products tables. 
+
+
