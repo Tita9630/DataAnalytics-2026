@@ -1,18 +1,75 @@
 1, What does a value in this column represent? What values might you see here?
-Categories: category details such as category ID, category name, description, and picture.
+Category: category details such as category ID, category name, description, and picture.
+Customer: Customer details
+Employee: Employee details
+Employee Territory: Employee ID and Territory ID
+Order Detail: Details of an item
+Orders: Detail of order, who bought(customer details), who sold it(employee details)
+Product: Product details, supplier ID, category ID 
+Region: Region ID
+Shipper: Shipper ID and Company name
+Supplier: Supplier details
+Territory: Territory ID and Region ID 
+
 2, Is this column a part of the primary key to this table?
-Yes, categoryID is the primary key to category table.
+Category: Yes, category ID is the primary key to category table.
+Customer: Yes, Customer ID
+Employee: Yes, Employee ID
+Employee Territory: Yes, composite primary key
+Order Detail: No
+Orders: Yes, Order ID
+Product: Yes, product ID
+Region: Yes, region ID
+Shipper: Yes, shipper ID
+Supplier: Yes, supplier ID
+Territory: Yes, territory ID
+
+
+
 3, Is this column a part of a foreign key that points to a record in another table?
-No, categoryID is not a foreign key in categories table. It is referenced as a foreign key in the products table.
+Category: No, category ID is not a foreign key in categories table. It is referenced as a foreign key in the products table.
+Customer: No
+Employee: No
+Employee territories: Yes, for employee table and territory table
+Order detail: Yes, order table and product table
+Orders: Yes, customer and employee tables
+Product: Yes, category and supplier tables
+Region: No
+Shipper: No
+Supplier: No
+Territory: Yes, region table
+
+
 4, Would this column be valuable to bring into our Power BI Model? Yes, or no? Why?
-Yes, because categoryID can be used to relate categories to products and to group products by category.
+Yes, all of these columns in different tables are valuable. Because they can be used to relate tables to tables using foreign keys.
+
+
 5, Do you believe this column is appropriately named for Data Analysis purposes?
-Yes, it is easy to understand. 
+Yes, it identify its meaning.
+I answered this above only for category column but after going through all the tables no, there were some cleaning up needed for the columns to be specific yet unique not to have duplications in different tables. 
+
 6, If not, what might be a more appropriate name?
-I think it is appropriate and unique.
+I think it is appropriate and unique. For all the columns that I thought was not appropriate, I renamed them with more unique and appropriate names.
+
 7, What might be the data type and format for this column in a Power BI Model?
-Attribute(Dimension) 
+Category: Text
+Customer: Text and whole number 
+Employee: Text and whole number
+Employee Territory: whole number
+Order Detail: Whole number and percentage 
+Orders: Text, whole number, and date
+Product: Whole number
+Region: Whole number
+Shipper: Text and whole number
+Supplier: Text and whole number 
+Territory: Whole number
+
+
+
+ 
+
 8, Can you think of any calculations where this column data might be used?
 Count of categories, count of products by category, average products by category after relating the categories and products tables. 
+Product unit price multiplied by discount amount, quantity per unit multiply by unit price
 
 
